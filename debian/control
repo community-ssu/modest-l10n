@@ -9,7 +9,7 @@ Package: modest-l10n-mr0
 Section: misc
 Architecture: all
 Provides: modest-l10n-mr
-Depends: modest-l10n-ruru, modest-l10n-frfr, modest-l10n-frca, modest-l10n-dadk, modest-l10n-itit, modest-l10n-svse, modest-l10n-nono, modest-l10n-fifi, modest-l10n-nlnl, modest-l10n-enus, modest-l10n-dede, modest-l10n-esmx, modest-l10n-eses, modest-l10n-cscz, modest-l10n-ptpt, modest-l10n-engb, modest-l10n-plpl
+Depends: modest-l10n-ruru (= ${binary:Version}), modest-l10n-frfr (= ${binary:Version}), modest-l10n-frca (= ${binary:Version}), modest-l10n-dadk (= ${binary:Version}), modest-l10n-itit (= ${binary:Version}), modest-l10n-svse (= ${binary:Version}), modest-l10n-nono (= ${binary:Version}), modest-l10n-fifi (= ${binary:Version}), modest-l10n-nlnl (= ${binary:Version}), modest-l10n-enus (= ${binary:Version}), modest-l10n-dede (= ${binary:Version}), modest-l10n-esmx (= ${binary:Version}), modest-l10n-eses (= ${binary:Version}), modest-l10n-cscz (= ${binary:Version}), modest-l10n-ptpt (= ${binary:Version}), modest-l10n-engb (= ${binary:Version}), modest-l10n-plpl (= ${binary:Version})
 Description: modest marketing release package
  This is a metapackage for modest to pull all the l10n packages.
  Application developers of modest should depend on
