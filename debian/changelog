@@ -1,3 +1,10 @@
+modest-l10n (6.11+0cssu3) unstable; urgency=low
+
+  * French translation for 'Tree view mode' and 'Enable offline IMAP support for this account'
+  * Add some missing translations which come from talk.maemo.org
+
+ -- Mohammad Abu-Garbeyyeh <mohammad7410@gmail.com>  Fri, 09 Sep 2011 22:17:38 +0300
+
 modest-l10n (6.11+0cssu2) unstable; urgency=low
 
   * Added Italian translation string for "Tree view mode" 
