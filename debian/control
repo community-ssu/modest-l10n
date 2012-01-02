@@ -1,7 +1,7 @@
 Source: modest-l10n
 Section: misc
 Priority: optional
-Maintainer: Naikel Aparicio <naikel@gmail.com>
+Maintainer: Christian Ratzenhofer <christian_ratzenhofer@yahoo.de>
 Build-Depends: debhelper (>= 4.0.0), gettext
 Standards-Version: 3.6.2
 
