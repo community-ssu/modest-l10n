@@ -968,3 +968,6 @@ msgstr "Tryb widoku drzewa"
 
 msgid "mcen_fi_advsetup_offline_sync"
 msgstr "Włącz wsparcie IMAP w trybie offline dla tego konta"
+
+msgid "mcen_fi_advsetup_update_all_folders"
+msgstr "Automatically update all folders"

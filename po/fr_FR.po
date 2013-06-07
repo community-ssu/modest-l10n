@@ -976,3 +976,6 @@ msgstr "Affichage en arborescence"
 
 msgid "mcen_fi_advsetup_offline_sync"
 msgstr "Activer le support hors-connexion de l'IMAP"
+
+msgid "mcen_fi_advsetup_update_all_folders"
+msgstr "Automatically update all folders"

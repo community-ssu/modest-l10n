@@ -965,3 +965,8 @@ msgstr "Otros"
 msgid "mcen_fi_options_tree_view"
 msgstr "Modo de vista por carpetas"
 
+msgid "mcen_fi_advsetup_offline_sync"
+msgstr "Enable offline IMAP support for this account"
+
+msgid "mcen_fi_advsetup_update_all_folders"
+msgstr "Automatically update all folders"

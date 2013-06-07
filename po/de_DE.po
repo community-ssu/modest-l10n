@@ -971,3 +971,6 @@ msgstr "Baumansicht"
 
 msgid "mcen_fi_advsetup_offline_sync"
 msgstr "Aktiviere offline IMAP Unterstützung für dieses Konto"
+
+msgid "mcen_fi_advsetup_update_all_folders"
+msgstr "Automatically update all folders"
