@@ -1,3 +1,11 @@
+modest-l10n (6.11+0cssu4) unstable; urgency=low
+
+  * Add english string for mcen_fi_advsetup_update_all_folders
+  * Show english strings instead of untranstaled mcen_fi_* in all language files
+  * Depend on ${binary:Version} in the metapackage
+
+ -- Pali Rohár <pali.rohar@gmail.com>  Fri, 14 Jun 2013 11:24:34 +0200
+
 modest-l10n (6.11+0cssu3) unstable; urgency=low
 
   * French translation for 'Tree view mode' and 'Enable offline IMAP support for this account'
